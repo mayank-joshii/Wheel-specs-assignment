@@ -25,6 +25,7 @@ This project implements two REST API endpoints using Django and PostgreSQL to ma
    git clone https://github.com/mayank-joshii/Wheel-specs-assignment.git
    cd Wheel-specs-assignment
 2. Create and Activate Virtual Environment
+'''bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
